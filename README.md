@@ -1,9 +1,13 @@
 # Ubuntu_pros
 Note the problems and the resolutions while using Ubuntu(20.04):)
 
-@[toc]
-
 # GPG keys error
+- [Ubuntu\_pros](#ubuntu_pros)
+- [GPG keys error](#gpg-keys-error)
+  - [问题描述](#问题描述)
+  - [解决方法](#解决方法)
+  - [注意](#注意)
+
 ## 问题描述
 首先在使用`sudo apt(-get) update`命令更新软件缓存时，出现了以错误：
 
